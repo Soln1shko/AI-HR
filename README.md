@@ -6,6 +6,6 @@
 
 | Участник | GitHub |
 |----------|--------|
-| **Марат Адиев (Я)** | [Soln1shko](https://github.com/Soln1shko) |
+| **Марат Адиев** | [Soln1shko](https://github.com/Soln1shko) |
 | **Никита Нестеров** | [akayooo](https://github.com/akayooo) |
 | **Никита Шушкин** | [nikita89756](https://github.com/nikita89756) |
