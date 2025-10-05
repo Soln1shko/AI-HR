@@ -2,8 +2,6 @@
 
 ## [Описание проекта (PDF)](presentation.pdf)
 
-## Участники проекта
-
 | Участник | GitHub |
 |----------|--------|
 | **Марат Адиев** | [Soln1shko](https://github.com/Soln1shko) |
